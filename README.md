@@ -5,7 +5,12 @@ As part of my CodeClause internship, I initiated a captivating data science proj
 
 For my wine quality prediction project, I sourced a dataset from Kaggle. This comprehensive dataset encompassed a collection of wine attributes and their corresponding quality ratings. Leveraging machine learning techniques, I meticulously analyzed and processed the data to construct a predictive model. The project's primary aim was to empower wine enthusiasts and producers by offering an accurate tool for evaluating and improving wine quality. Through model training with different types of regressions and performance evaluation, we identified the most efficient regression method to develop an accurate wine quality prediction system.
 
+## Dataset 📓
 
+The following is the link to the wine quality dataset I used from kaggle:
+https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+
+## Overview 📖
 Each wine in this dataset is given a “quality” score between 0 and 10. For the purpose of this project, I converted the output to a binary output(1 or 0) where each wine is either “good quality” (a score of 7 or higher) or not (a score below 7). The quality of a wine is determined by 11 input variables: <br>
   👉Fixed acidity<br>
   👉Volatile acidity<br>
