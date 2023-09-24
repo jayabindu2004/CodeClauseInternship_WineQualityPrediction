@@ -33,6 +33,18 @@ Some of the snap shots of my wine quality prediction model are as follows:<br><b
 
 <br><br>
 
+### Taking input from the user
+
+<br><br>
+
+
+
+<img width="622" alt="image" src="https://github.com/jayabindu2004/CodeClauseInternship_WineQualityPrediction/assets/117556640/bf1dbbbb-b483-41ec-9279-98cfd224588f">
+
+
+
+<br><br>
+
 #### Positive result 
 
 <br><br>
